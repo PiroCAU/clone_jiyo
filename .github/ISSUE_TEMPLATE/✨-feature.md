@@ -1,7 +1,7 @@
 ---
-name: "✨ [feat] 설명"
-about: "~~ 기능 추가"
-title: ''
+name: "✨ Feature"
+about: 새로운 기능 추가
+title: "✨ [feat] 새로운 기능"
 labels: ''
 assignees: wldy4627
 
